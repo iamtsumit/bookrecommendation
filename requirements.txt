@@ -1,3 +1,10 @@
 flask
 gunicorn
 numpy
+scikit-learn
+pandas
+matplotlib
+scipy
+sklearn
+pickle
+requests
