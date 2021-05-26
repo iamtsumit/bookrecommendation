@@ -6,5 +6,4 @@ pandas
 matplotlib
 scipy
 sklearn
-pickle
 requests
