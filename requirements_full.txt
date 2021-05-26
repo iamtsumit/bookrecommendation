@@ -1,7 +1,9 @@
-tensorflow-hub
-tensorflow-text
 scikit-learn
 numpy
+pandas
+matplotlib
+scipy
+sklearn
+pickle
 flask
-beautifulsoup4
 requests
