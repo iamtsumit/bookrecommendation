@@ -35,7 +35,7 @@
                 {% if book_selected is defined %}
                 <h2>Selected book:</h2>
                 <img src="{{ book_selected.imageUrlL.values[0] }}">
-                <p>{{ book_selected.bookTitle.values[0] }}</p>
+                <!--<p>{{ book_selected.bookTitle.values[0] }}</p>-->
                 {% endif %}
             </div>
         </div>
@@ -45,7 +45,7 @@
             {% for book in similar_books %}
             <div class="col-2 p-3 d-flex justify-content-center">
                 <img src="{{ book.imageUrlM.values[0] }}">
-                <p>{{ book.bookTitle.values[0] }}</p>
+                <!--<p>{{ book.bookTitle.values[0] }}</p>-->
             </div>
             {% endfor %}
         </div>
