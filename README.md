@@ -5,11 +5,12 @@ This repository shows all the code necessary to build a book recommender system.
 ## Requirements
 
 All the code is written in python 3.7 and the following packages are used:
-- tensorflow-hub
-- tensorflow-text
-- scikit-learn
-- numpy
 - flask
-- beautifulsoup4
-- requests
 - gunicorn
+- numpy
+- scikit-learn
+- pandas
+- matplotlib
+- scipy
+- sklearn
+- requests
